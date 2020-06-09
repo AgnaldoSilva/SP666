@@ -1,8 +1,8 @@
 # SP666 #
 
-Presentation											Case Study SQLCODE -4743 and APPLCOMPAT.pdf   		
+Presentation                                            Case Study SQLCODE -4743 and APPLCOMPAT.pdf   		
 
-Open the Tutorial Steps									Webinar CD with Db2 zos.pdf 
+Open the Tutorial Steps                                 Webinar CD with Db2 zos.pdf 
 
    1. Create Mycustomer and Mycust_Hist					Crate Tables.txt
    
