@@ -1,6 +1,4 @@
-# SP666 #
-
-Presentation                                            Case Study SQLCODE -4743 and APPLCOMPAT.pdf   		
+# SP666 #		
 
 Open the Tutorial Steps                                 Webinar CD with Db2 zos.pdf 
 
